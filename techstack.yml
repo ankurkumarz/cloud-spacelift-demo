@@ -1,0 +1,18 @@
+repo_name: ankurkumarz/cloud-spacelift-demo
+report_id: 3c98498bf8cc67a6c618fe425f7e1e48
+repo_type: Public
+timestamp: '2023-12-14T15:16:25+00:00'
+requested_by: ankurkumarz
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
